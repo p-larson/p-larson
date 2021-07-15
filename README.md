@@ -1,1 +1,1 @@
-### ⭐️ Follow everything else I do [@p.larson](https://www.instagram.com/p.larson/)
+### ⭐️ Follow everything else I do on [Instagram @p.larson](https://www.instagram.com/p.larson/)
