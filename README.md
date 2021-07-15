@@ -1,1 +1,1 @@
-### ⭐️ Follow everything else I do on [Instagram @p.larson](https://www.instagram.com/p.larson/)
+### Am I interesting? [Stalk and Follow Me](https://www.instagram.com/p.larson/)
