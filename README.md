@@ -1,1 +1,1 @@
-### 😳 Am I interesting? [Stalk and Follow Me](https://www.instagram.com/p.larson/)
+### 😳 You should [Stalk and Follow Me](https://www.instagram.com/p.larson/) because I'm cool
