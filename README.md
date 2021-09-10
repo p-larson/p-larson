@@ -1,1 +1,1 @@
-### 😳 You should [Stalk and Follow Me](https://cutt.ly/open-instagram)
+### Hello! I'm Peter, [Follow Me on Instagram](https://cutt.ly/open-instagram)
