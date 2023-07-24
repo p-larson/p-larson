@@ -10,13 +10,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-larson)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-larson&layout=compact)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p-larson&repo=TCA-Bible)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p-larson&repo=TCA-Snake)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p-larson&repo=TCA-Snake-2)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=p-larson&repo=SwiftUICardStack)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pointfreeco&repo=swift-composable-architecture)](https://github.com/anuraghazra/github-readme-stats)
