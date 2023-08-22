@@ -7,6 +7,6 @@
 [p.larson@utexas.edu](p.larson@utexas.edu) | [952-388-8118](952-388-8118) | [linkedin.com/in/plars/](https://www.linkedin.com/in/plars/) | [https://www.github.com/p-larson](github.com/p-larson)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-larson)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=p-larson)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-larson&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=p-larson&layout=compact)
