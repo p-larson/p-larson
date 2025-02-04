@@ -1,5 +1,6 @@
 # 👋 Howdy, I'm Peter
 
+Building cool full-stack apps
 - 🚀 Ruby on Rails + Turbo
 - ✨ React-Native + Expo
 - 🔥 Swift/TCA
